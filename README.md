@@ -21,4 +21,4 @@
 -----------------------------------------分割线-----------------------------------------
 ## 章节内容介绍
 
-### Chapter1  内容：机器眼里的单词//How say a word to machine
+### [Chapter1  内容：机器眼里的单词//How say a word to machine](https://github.com/hahazjk/TensorFlow-from-zero-to-hero/blob/master/Chapter1.md)
