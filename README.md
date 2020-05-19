@@ -1,3 +1,11 @@
-# break.the.status.quo
-# I just wannna learning sth and change my life. As I recognized I'm so small for this world, so I'm getting to do sth great.
-# Let's begin
+#这是一个基于Python的 TensorFlow教程
+
+##Q：这个教程适合那些人？
+##A：初学者，对人工智能领域感兴趣。熟悉基本的Python操作，具备高中以上的数学知识。（如果忘了可以现学，主要是导数，不是很难。）
+
+##Q：我可以学到什么？
+##A：你将学到机器是如何理解事物，并且是如何做出决策，预测趋势的，并且可以打造自己的小项目。
+
+##Q：我需要准备什么？
+##A：一个Python的编译器，Jupiter，VSCode，Pycharm都可，如果你比较喜欢原生的IDLE也是完全OK的。
+
