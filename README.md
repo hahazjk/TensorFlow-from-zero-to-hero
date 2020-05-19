@@ -12,6 +12,7 @@
 ##### 安装方法请见https://www.tensorflow.org/install/pip?hl=zh-cn
 
 ### 本教程中将以TensorFlow的官方英文视频教程为范本，通过中文给大家讲述NLP（Natural Language Processing）
+### TensorFlow 官方英文视频地址：https://www.youtube.com/watch?v=fNxaJsNG3-s&t=157s
 并且自己动手训练一个自己的语言处理模型，处理一些语言。
 
 -----------------------------------------分割线-----------------------------------------
